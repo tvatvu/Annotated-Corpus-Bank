@@ -15,36 +15,67 @@
 ENGLISH-CATEGORY	  ENGLISH EXPANSION	    TAMIL GRAMMATICAL CATEGORY
 
 N	NOUN	பெயர்ச்சொல்
+
 PN	PRONOUN	பதிலிடு பெயர்
+
 num	NUMBER	எண்ணுப்பெயர்
+
 ACC	ACCUSATIVE CASE	இரண்டாம் வேற்றுமை
+
 INS	INSTRUMENTAL CASE	மூன்றாம் வேற்றுமை
+
 SOC	SOCIATIVE CASE	மூன்றாம் வேற்றுமை
+
 DAT	DATIVE CASE	நான்காம் வேற்றுமை
+
 ABL	ABLATIVE CASE	ஐந்தாம் வேற்றுமை
+
 GEN	GENITIVE CASE	ஆறாம் வேற்றுமை
+
 LOC	LOCATIVE CASE	ஏழாம் வேற்றுமை
+
 ADJ	ADJECTIVE	பெயரடை
+
 ADV	ADVERB	வினையடை
+
 CONJ	CONJUNCTION 	இணைப்புச்சொல்
+
 WQ	Wh-QUESTION	வினாப்பெயர்
+
 PSP	POSTPOSITION	சொல்லுருபு
+
 sg	SINGULAR	ஒருமை
+
 pl	PLURAL	பன்மை
+
 V	VERB	வினைச்சொல்
+
 PAST	PAST TENSE	இறந்தகாலம்
+
 PRESENT	PRESENT TENSE	நிகழ்காலம்
+
 FUTURE	FUTURE TENSE	எதிர்காலம்
+
 m	MASCULINE	ஆண்பால்
+
 f	FEMININE	பெண்பால்
+
 mf	MASCULINE/FEMININE	ஆண்/பெண்
+
 c	COMMON GENDER	பலர்பால்
+
 n	NEUTER GENDER	பலவின்பால்
+
 RP	RELATIVE PARTICIPLE	பெயரெச்சம்
+
 NEG	NEGATIVE	எதிர்மறை
+
 COND	CONDITIONAL PARTICIPLE	நிபந்தனையெச்சம்
+
 INF	INFINITIVE 	குறையெச்சம்
+
 PRP	PARTICIPIAL NOUN	வினையாலணையும் பெயர்
+
 VBN	VERBAL PARTICIPLE	வினையெச்சம்
 
 *ஆய்விற்கு மட்டும் பயன்படுத்தவும்
